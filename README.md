@@ -14,9 +14,9 @@ This is a web page created with the Bootstrap library. It contains a banner, a n
 ##### Developed With
 
 - [x] _HTML5_
-- [ ] _CSS3_
-- [x] _SASS_
-- [x] _SCSS_
+- [x] _CSS3_
+- [ ] _SASS_
+- [ ] _SCSS_
 - [x] _JavaScript_
 - [ ] _React_
 - [x] _Bootstrap_
