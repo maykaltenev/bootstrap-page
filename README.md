@@ -4,13 +4,11 @@
 
 ---
 
-![log-in-first](./images/log-in-first.png)
-
-## The updated version you can find in the branch flexbox
-
-![log-in-flexbox](./images/flexbox-1.png)
+![bootstrap-page](./images/bootstrap-page.png)
 
 ### About Project
+
+This is a web page created with the Bootstrap library. It contains a banner, a navbar, a grid column layout, cards and a footer! Feel free to use as you please!
 <br>
 
 ##### Developed With
@@ -21,7 +19,7 @@
 - [x] _SCSS_
 - [x] _JavaScript_
 - [ ] _React_
-- [X] _Bootstrap_
+- [x] _Bootstrap_
 
 ---
 
@@ -36,14 +34,12 @@ LinkedIn: [Maykal Tenev](https://www.linkedin.com/in/maykal-tenev-a8729586/)
 ### Used Tools
 
 - [npm](https://www.npmjs.com/)
-- [Google Fonts](https://fonts.google.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Adobe Color](https://color.adobe.com/create/color-wheel)
-- [FontAwesome](https://fontawesome.com/)
 
 ### Recourses
 
 - [MDN Web Docs](https://developer.mozilla.org/de/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ---
 
