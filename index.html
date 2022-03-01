@@ -25,8 +25,7 @@
 
     <!-- navbar -->
     <nav
-      style="height: 5vh"
-      class="navbar navbar-dark bg-light fw-bolder d-flex align-content-center border"
+      class="h-5 navbar navbar-dark bg-light fw-bolder d-flex align-content-center border"
     >
       <div class="container-fluid d-flex justify-content-center">
         <a class="nav-link" href="#">Home</a>
@@ -82,23 +81,34 @@
     </div> -->
     <!-- create cards only with card-body -->
     <div style="height: 30vh" class="container d-flex justify-content-between">
-      <div class="card" style="width: 18rem; height: 4rem">
-        <div class="card-body bg-primary d-flex justify-content-center">
+      <!-- each card is with width: 18rem and height: 14rem-->
+      <div class="card border-0border-0" style="width: 18rem; height: 4rem">
+        <div
+          class="card-body rounded-2 bg-primary d-flex justify-content-center"
+        >
           First card
         </div>
       </div>
-      <div class="card" style="width: 18rem; height: 4rem">
-        <div class="card-body bg-warning d-flex justify-content-center">
+      <!-- border none to remove the gray outline for each card-body -->
+      <div class="card border-0" style="width: 18rem; height: 4rem">
+        <!-- rounded edges of the boxes with rounded-2 for each card-->
+        <div
+          class="card-body rounded-2 bg-warning d-flex justify-content-center"
+        >
           Second card
         </div>
       </div>
-      <div class="card" style="width: 18rem; height: 4rem">
-        <div class="card-body bg-success d-flex justify-content-center">
+      <div class="card border-0" style="width: 18rem; height: 4rem">
+        <div
+          class="card-body rounded-2 bg-success d-flex justify-content-center"
+        >
           Third card
         </div>
       </div>
-      <div class="card" style="width: 18rem; height: 4rem">
-        <div class="card-body bg-danger d-flex justify-content-center">
+      <div class="card border-0" style="width: 18rem; height: 4rem">
+        <div
+          class="card-body rounded-2 bg-danger d-flex justify-content-center"
+        >
           Fourth card
         </div>
       </div>
