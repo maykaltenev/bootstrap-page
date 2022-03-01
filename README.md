@@ -4,7 +4,7 @@
 
 ---
 
-![bootstrap-page](./images/bootstrap-page.png)
+![bootstrap-page](./images/bootstrap-webpage.png)
 
 ### About Project
 
