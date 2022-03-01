@@ -1,4 +1,4 @@
-## Log in page or Sign in in
+## Bootstrap Web page
 
 [Test this app yourself](https://maykaltenev.github.io/bootstrap-page/)
 
@@ -8,7 +8,7 @@
 
 ### About Project
 
-This is a web page created with the Bootstrap library. It contains a banner, a navbar, a grid column layout, cards and a footer! Feel free to use as you please!
+This is a web page created with the Bootstrap framework. It contains a banner, a navbar, a grid column layout, cards and a footer! Feel free to use as you please!
 <br>
 
 ##### Developed With
